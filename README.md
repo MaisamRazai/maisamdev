@@ -2,8 +2,8 @@
 
 [![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmaisamrazai&labelColor=%230d1117&countColor=%230d1117&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmaisamrazai)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maisam-razai)
+[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maisamrazai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:maisam.razai@outlook.com)
 
@@ -20,9 +20,25 @@
 
 ## 🛠️ Tech Stack
 
-[![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nextjs)](https://github.com/maisamrazai)
+<p align="center">
+  <a href="https://github.com/maisamrazai"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nextjs" /></a>
+</p>
 
-[![](https://skillicons.dev/icons?i=cs,dotnet,nodejs,azure,aws,kubernetes,docker,git,postgres,mongo)](https://github.com/maisamrazai)
+<p align="center">
+  <a href="https://github.com/maisamrazai"><img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,azure,aws,kubernetes,docker,git,postgres,mongo" /></a>
+</p>
+
+---
+
+## 🚧 Projects
+
+> More projects coming soon — stay tuned!
+
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| 🔒 Coming Soon | AI-powered application | `Python` `LLMs` | 🛠️ In Progress |
+| 🔒 Coming Soon | Full-stack web app | `React` `.NET` | 📋 Planned |
+| 🔒 Coming Soon | Cloud-native tool | `Azure` `Docker` | 📋 Planned |
 
 ---
 
