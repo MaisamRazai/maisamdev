@@ -5,16 +5,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razai.maisam@gmail.com)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:maisam.razai@outlook.com)
 
 ## Hi there! 👋 I'm Maisam — Software & AI Engineer
 
 - 🤖 Currently building AI-powered applications with LLMs, agents, and RAG pipelines
 - 🌐 Crafting full-stack solutions with modern web technologies
-- ☁️ Deploying and scaling applications on AWS, Azure & GCP
+- ☁️ Deploying and scaling applications on AWS & Azure
 - 🔍 Exploring the intersection of AI and real-world software engineering
 - 💬 Ask me about AI engineering, .NET, or React
-- 📫 Reach me at [razai.maisam@gmail.com](mailto:razai.maisam@gmail.com)
+- 📫 Reach me at [maisam.razai@outlook.com](mailto:maisam.razai@outlook.com)
 
 ---
 
@@ -22,7 +22,7 @@
 
 [![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nextjs)](https://github.com/maisamrazai)
 
-[![](https://skillicons.dev/icons?i=cs,dotnet,nodejs,azure,aws,gcp,docker,git)](https://github.com/maisamrazai)
+[![](https://skillicons.dev/icons?i=cs,dotnet,nodejs,azure,aws,kubernetes,docker,git,postgres,mongo)](https://github.com/maisamrazai)
 
 ---
 
