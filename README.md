@@ -37,8 +37,8 @@
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | 🔒 Coming Soon | AI-powered application | `Python` `LLMs` | 🛠️ In Progress |
-| [MaisamRazai/pizzaria](https://github.com/MaisamRazai/pizzaria) | Pizza ordering web app | `React` `.NET` | 📋 Planned |
-| https://github.com/MaisamRazai/expense_tracker | `Azure` `Docker` | 📋 Planned |
+| [pizzaria](https://github.com/MaisamRazai/pizzaria) | Pizza ordering web app | `React` `.NET` |
+| [Expense Tracker](https://github.com/MaisamRazai/expense_tracker) | `React 18` `TypeScript` |
 
 ---
 
