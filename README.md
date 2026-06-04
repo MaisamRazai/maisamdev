@@ -30,16 +30,6 @@
 
 ---
 
-## 📝 Blog Posts
-
-> I'll be sharing articles on AI, software engineering, and cloud — coming soon!
-
-- 🔒 *Coming soon* — AI Engineering deep dive
-- 🔒 *Coming soon* — Building with LLMs in production
-- 🔒 *Coming soon* — .NET + Azure in the real world
-
----
-
 ## 🚧 Projects
 
 > More projects coming soon — stay tuned!
