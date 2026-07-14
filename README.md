@@ -36,7 +36,7 @@
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| 🔒 Coming Soon | AI-powered application | `Python` `LLMs` | 🛠️ In Progress |
+| [Virtual Data Room](https://github.com/MaisamRazai/VDR) | AI-powered VDR | `.Net` `C#` `Python` `LLMs` | 🛠️ In Progress |
 | [Pizzaria](https://github.com/MaisamRazai/pizzaria) | Pizza ordering web app | `React` `.NET` |
 | [Expense Tracker](https://github.com/MaisamRazai/expense_tracker) | Expense Tracker | `React 18` `TypeScript` |
 
